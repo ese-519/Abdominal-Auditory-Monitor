@@ -26,7 +26,7 @@ Goals:
 Coming soon
 
 ### IMAGES and GIFs
-![](images/ex_view.jpg)
+![](images/1103_architecture.png)
 
 
 ### BUILD INSTRUCTIONS
