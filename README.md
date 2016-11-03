@@ -1,6 +1,7 @@
 ABDOMINAL AUDITORY MONITOR
 ============
 ![](images/logo.jpg)
+
 **University of Pennsylvania, ESE 519: Real Time and Embedded Systems**
 
 * Jono Sanders, Hitali Sheth, Sindhu Honnali
@@ -19,7 +20,7 @@ Goals:
 Coming soon
 
 ### IMAGES and GIFs
-[![](images/ex_view.jpg)]
+![](images/ex_view.jpg)
 
 
 ### BUILD INSTRUCTIONS
