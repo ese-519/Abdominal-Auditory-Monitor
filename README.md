@@ -1,11 +1,11 @@
-ABDOMINAL AUDITORY MONITOR
+### REAL TIME EMBEDDED SYSTEMS PROJECT
 ============
 ![](images/logo.jpg)
 
-**University of Pennsylvania, ESE 519: Real Time and Embedded Systems**
+**University of Pennsylvania, ESE 519**
 
-* Jono Sanders, Hitali Sheth, Sindhu Honnali
-* [Blog on Devpost](https://devpost.com/software/abdominal-auditory-monitor-h0qpsu)
+**Team**: Jono Sanders, Hitali Sheth, Sindhu Honnali
+**Blog**: * [Abdominal Auditory Monitor on Devpost](https://devpost.com/software/abdominal-auditory-monitor-h0qpsu)
 
 ### DESCRIPTION AND GOALS
 This device observes a patient after an abdominal operation to detect bowel activity so that they can resume eating.
